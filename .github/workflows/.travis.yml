@@ -1,1 +1,10 @@
+language: node_js
+node_js: 
+  - 11.0.0
+cache: npm
 
+services:
+  - docker
+  
+install:
+  npm install
