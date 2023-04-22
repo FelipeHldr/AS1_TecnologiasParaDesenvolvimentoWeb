@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOCKER_IMAGE: docker.io/seu-usuario/seu-projeto
+  DOCKER_IMAGE: docker.io/FelipeHldr/docker-devops
 
 jobs:
   build:
